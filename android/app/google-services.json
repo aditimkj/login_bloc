@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "683355820373",
+    "project_id": "kegger-cf334",
+    "storage_bucket": "kegger-cf334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683355820373:android:d016ccbecaad308b205fdc",
+        "android_client_info": {
+          "package_name": "com.microaditi.login_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683355820373-v3b8o2bqtchsraa0g614dgeh6m44t4n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microaditi.login_bloc",
+            "certificate_hash": "456bfd887392556a598842f606b2fbf308fc8955"
+          }
+        },
+        {
+          "client_id": "683355820373-2k7k9vqeik5260163khkb759pq28unni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZIiHp8MPfqQKq2turCpmU1n1d56LFfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683355820373-2k7k9vqeik5260163khkb759pq28unni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
